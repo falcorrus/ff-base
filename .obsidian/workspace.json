@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Flutterflow/Обучение_Комплексные большие видео.md",
+                "file": "Flutterflow/Подробные большие видео.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Обучение_Комплексные большие видео"
+              "title": "Подробные большие видео"
             }
           },
           {
@@ -222,7 +222,7 @@
   "active": "8b4978ada1741563",
   "lastOpenFiles": [
     "video/Пошаговое создание полноценного соцсетевого приложения на FlutterFlow и Supabase (Подробный видеоурок).md",
-    "Flutterflow/Обучение_Комплексные большие видео.md",
+    "Flutterflow/Подробные большие видео.md",
     "video/Создание мультиарендного приложения с FlutterFlow и Supabase с нуля (пошагово).md",
     "video/Построй и запусти мультиарендное (multi-tenant) сложное приложение с помощью Claude Code Supabase и MCP (пошаговый урок).md",
     "video/Untitled.md",
