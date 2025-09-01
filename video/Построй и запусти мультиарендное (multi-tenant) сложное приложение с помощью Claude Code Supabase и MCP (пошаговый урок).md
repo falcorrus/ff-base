@@ -1,3 +1,6 @@
+---
+source: https://www.youtube.com/watch?v=PUrz6ZC5Q0g
+---
 
 **Краткий обзор видео "Build & Launch A Multi Tenant Complex App With Claude Code, Supabase and MCP (Step by Step Tutorial)":**
 
