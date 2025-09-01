@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "video/Построй и запусти мультиарендное (multi-tenant) сложное приложение с помощью Claude Code Supabase и MCP (пошаговый урок).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Построй и запусти мультиарендное (multi-tenant) сложное приложение с помощью Claude Code Supabase и MCP (пошаговый урок)"
             }
           }
         ]
@@ -188,10 +188,21 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "5cbcb33eef425a94",
+  "active": "6fa13832e574f2cb",
   "lastOpenFiles": [
-    "Базы данных (бекэнд)/MCP-серверы что это.md",
+    "video/Untitled.md",
+    "video/Построй и запусти мультиарендное (multi-tenant) сложное приложение с помощью Claude Code Supabase и MCP (пошаговый урок).md",
+    "video/-video-screenshots-without-notes.base",
+    "video/-hovernotes.base",
+    "video/-video-screenshots.base",
     "index.md",
+    "video/Untitled.md.crswap",
+    "video/-video-screenshots-without-notes.base.crswap",
+    "video/-video-screenshots.base.crswap",
+    "video/-hovernotes.base.crswap",
+    "video/hover-notes-images",
+    "video",
+    "Базы данных (бекэнд)/MCP-серверы что это.md",
     "Отладка и Ошибки/ошибка CORS в firebase и FF.md",
     "Flutterflow/Общая информация о Базе знаний.md",
     "Базы данных (бекэнд)/Supabase/0! Supabase.md",
@@ -215,28 +226,17 @@
     "Flutterflow/Тестирование в play market.md",
     "Flutterflow/Сколько людей нужно в службу поддержки.md",
     "Flutterflow/проверка что юзер (пользователь) онлайн.md",
-    "Лайфхаки и Лучшие Практики/Как показывать рекламу при загрузке.md",
-    "Дизайн и пользовательский интерфейс/поменять цвет статус-бара в WEB приложении (PWA).md",
     "temp/2025-08-25_FlutterFlow -Pricing 1.png",
     "temp/2025-08-25_FlutterFlow -Pricing.png",
     "temp/2025-01-27_Pricing_Momen.jpg",
     "temp/VibratingReorderableListView.txt",
-    "temp/OnReorder.txt",
     "Кастомный код/!files/Screenshot_2025-06-19-09-32-53-009_org.telegram.plus.png",
     "temp/code_2.png",
     "temp/code_custom1.jpg",
     "temp/image_SearchAPISupa4.jpg",
     "temp/image_SearchAPISupa3.jpg",
     "temp/image_SearchAPISupa2.jpg",
-    "temp/image_Прокручивание списка до нужного элемента_.txt",
-    "temp/ScrollToWidget.txt",
-    "temp/txt_Мобильное приложение vs Сайт vs TMA.pdf",
-    "Другие инструменты/Мобильное приложение vs Сайт vs TMA.pdf",
     "Схема yoo.canvas",
-    "WEB",
-    "temp/~$stomContainer.docx",
-    "📈 Интеграции и Внешние сервисы/Другие интеграции",
-    "Другие интеграции",
     "Специалисты/Идеи Garuda.canvas"
   ]
 }
