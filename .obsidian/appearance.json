@@ -1,0 +1,14 @@
+{
+  "cssTheme": "Cupertino",
+  "translucency": false,
+  "showViewHeader": true,
+  "showRibbon": true,
+  "enabledCssSnippets": [
+    "remove-heading-space"
+  ],
+  "accentColor": "#2e22d8",
+  "baseFontSize": 17,
+  "baseFontSizeAction": true,
+  "theme": "moonstone",
+  "nativeMenus": false
+}

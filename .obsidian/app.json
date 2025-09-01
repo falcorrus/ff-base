@@ -1,0 +1,13 @@
+{
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "current",
+  "attachmentFolderPath": "temp",
+  "userIgnoreFilters": [
+    "temp/"
+  ],
+  "showUnsupportedFiles": true,
+  "newLinkFormat": "relative",
+  "useMarkdownLinks": false,
+  "showIndentGuide": false,
+  "promptDelete": false
+}
