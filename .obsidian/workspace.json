@@ -75,8 +75,7 @@
               "title": "Закладки"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -189,7 +188,7 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "6fa13832e574f2cb",
+  "active": "5cbcb33eef425a94",
   "lastOpenFiles": [
     "Базы данных (бекэнд)/MCP-серверы что это.md",
     "index.md",

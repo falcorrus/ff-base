@@ -16,4 +16,3 @@ FROM "" // из хранилища `FlutterFlow база знаний`
 WHERE file.name != "index" // За последние 7 дней, исключая Homepage
 SORT file.mtime DESCLIMIT 5 // последние 5 заметок
 ```
-Изменение
