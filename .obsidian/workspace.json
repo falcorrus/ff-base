@@ -21,8 +21,39 @@
               "icon": "lucide-file",
               "title": "Создание мультиарендного приложения с FlutterFlow и Supabase с нуля (пошагово)"
             }
+          },
+          {
+            "id": "8b4978ada1741563",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Flutterflow/Обучение_Комплексные большие видео.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Обучение_Комплексные большие видео"
+            }
+          },
+          {
+            "id": "fb41aee60f158249",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "video/Пошаговое создание полноценного соцсетевого приложения на FlutterFlow и Supabase (Подробный видеоурок).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Пошаговое создание полноценного соцсетевого приложения на FlutterFlow и Supabase (Подробный видеоурок)"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -54,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "FlutterFlow база знаний",
+                "query": "комплек",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -188,10 +219,12 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "6fa13832e574f2cb",
+  "active": "8b4978ada1741563",
   "lastOpenFiles": [
-    "video/Построй и запусти мультиарендное (multi-tenant) сложное приложение с помощью Claude Code Supabase и MCP (пошаговый урок).md",
+    "video/Пошаговое создание полноценного соцсетевого приложения на FlutterFlow и Supabase (Подробный видеоурок).md",
+    "Flutterflow/Обучение_Комплексные большие видео.md",
     "video/Создание мультиарендного приложения с FlutterFlow и Supabase с нуля (пошагово).md",
+    "video/Построй и запусти мультиарендное (multi-tenant) сложное приложение с помощью Claude Code Supabase и MCP (пошаговый урок).md",
     "video/Untitled.md",
     "video/-video-screenshots-without-notes.base",
     "video/-hovernotes.base",
@@ -224,8 +257,6 @@
     "Базы данных (бекэнд)/Базы данных FAQ.md",
     "Лайфхаки и Лучшие Практики/Как делать скриншоты.md",
     "Flutterflow/Обновления FF/2024-12-09_What's New in FlutterFlow  December 09, 2024.md",
-    "Flutterflow/Тестирование в play market.md",
-    "Flutterflow/Сколько людей нужно в службу поддержки.md",
     "temp/2025-08-25_FlutterFlow -Pricing 1.png",
     "temp/2025-08-25_FlutterFlow -Pricing.png",
     "temp/2025-01-27_Pricing_Momen.jpg",
