@@ -9,11 +9,11 @@ source: https://www.youtube.com/watch?v=PUrz6ZC5Q0g
 - **Claude Code** — для генерации и автоматизации кода;
     
 - **Supabase** — как база данных, бекенд и система аутентификации;
-    
+
 - **MCP (Model Context Protocol)** — для облегчённой интеграции и доступа к Supabase;
-    
+
 - **SvelteKit** — фреймворк для фронтенда;
-    
+
 - **Tailwind CSS** — для стилизации интерфейса.
     
 
